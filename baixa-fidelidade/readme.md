@@ -1,7 +1,6 @@
 ## PomodoroMBA - Wireframe de Baixa Fidelidade
 
-![Wireframe do PomodoroMBA](https://raw.githubusercontent.com/SupremeSith/PomodoroMBA/main/images/wireframe-pomodoro.png)
-
+![Wireframe do PomodoroMBA](https://github.com/SupremeSith/PomodoroMBA/blob/main/main/images/wireframe-pomodoro.png?raw=true)
 **Descrição da Imagem:**
 
 Esta é uma maquete de baixa fidelidade (wireframe) do aplicativo "PomodoroMBA", uma ferramenta de produtividade baseada na técnica Pomodoro. A interface apresenta três seções principais:
