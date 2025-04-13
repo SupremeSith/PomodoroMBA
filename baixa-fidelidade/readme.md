@@ -1,5 +1,6 @@
 ## PomodoroMBA - Wireframe de Baixa Fidelidade
 
+![Wireframe do PomodoroMBA](https://github.com/SupremeSith/PomodoroMBA/blob/main/main/images/wireframe-pomodoro.png?raw=true)
 
 ![Wireframe do PomodoroMBA](https://github.com/SupremeSith/PomodoroMBA/blob/main/main/images/wireframe-pomodoro.png?raw=true)
 
