@@ -1,7 +1,7 @@
 ## PomodoroMBA - Protótipo de Média Fidelidade
 
 ### Dark Mode
-![PomodoroMBA Dark Mode](https://raw.githubusercontent.com/SupremeSith/PomodoroMBA/main/images/pomodoro-dark-mode.png)
+![PomodoroMBA Dark Mode](https://github.com/SupremeSith/PomodoroMBA/blob/main/main/images/pomodoro-dark-mode.png?raw=true)
 
 **Descrição da Imagem:**
 
@@ -15,7 +15,7 @@ Esta é a versão de média fidelidade do aplicativo "PomodoroMBA" no modo escur
 O tema escuro utiliza fundo preto com texto branco e detalhes em verde e azul para destacar elementos interativos.
 
 ### Light Mode
-![PomodoroMBA Light Mode](https://raw.githubusercontent.com/SupremeSith/PomodoroMBA/main/images/pomodoro-light-mode.png)
+![PomodoroMBA Light Mode](https://github.com/SupremeSith/PomodoroMBA/blob/main/main/images/pomodoro-light-mode.png?raw=true)
 
 **Descrição da Imagem:**
 
@@ -29,7 +29,7 @@ Esta é a versão de média fidelidade do aplicativo "PomodoroMBA" no modo claro
 O tema claro mantém a funcionalidade, mas oferece uma estética mais leve e brilhante.
 
 ### UI & UX
-![PomodoroMBA UI & UX](https://raw.githubusercontent.com/SupremeSith/PomodoroMBA/main/images/pomodoro-ui-ux.png)
+![PomodoroMBA UI & UX](https://github.com/SupremeSith/PomodoroMBA/blob/main/main/images/pomodoro-ui-ux.png?raw=true)
 
 **Descrição da Imagem:**
 
