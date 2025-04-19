@@ -1,15 +1,146 @@
-/* App.css */
 .app {
+  background-color: #1a1a1a;
+  color: #fff;
+  min-height: 100vh;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
   text-align: center;
-  margin-top: 100px;
-  font-family: sans-serif;
+  margin-bottom: 10px;
 }
-.timer {
-  font-size: 4rem;
-  margin: 20px 0;
+
+.subtitle {
+  text-align: center;
+  color: #ccc;
+  margin-bottom: 30px;
 }
-button {
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.session-data, .task-list {
+  background-color: #2a2a2a;
+  padding: 20px;
+  border-radius: 10px;
+  width: 45%;
+}
+
+.session-data h3, .task-list h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.session-data p, .task-list p {
+  color: #ccc;
+  margin-bottom: 10px;
+}
+
+.modes {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.mode-button {
   padding: 10px 20px;
-  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
   cursor: pointer;
+  font-size: 1rem;
+}
+
+.mode-button.active {
+  background-color: #00ff00;
+  color: #000;
+}
+
+.mode-button:not(.active) {
+  background-color: #555;
+  color: #fff;
+}
+
+.timer {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+}
+
+.progress-ring {
+  transform: rotate(-90deg);
+}
+
+.progress-ring-circle {
+  transition: stroke-dashoffset 1s linear;
+}
+
+.time {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.task-list ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.task-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0;
+  border-bottom: 1px solid #444;
+}
+
+.task-list input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+}
+
+.add-task {
+  display: flex;
+  gap: 10px;
+}
+
+.add-task input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #444;
+  color: #fff;
+}
+
+.add-task button {
+  padding: 10px 20px;
+  background-color: #00ff00;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #000;
+}
+
+.start-pause-button {
+  display: block;
+  margin: 20px auto;
+  padding: 15px 30px;
+  background-color: #00ff00;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: #000;
 }
